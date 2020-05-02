@@ -1,0 +1,480 @@
+
+header{
+    
+    background-color: lightblue;
+}
+header{
+    
+    background-color: #3b5998;
+    opacity: 1;
+    height:  25px;
+    padding: 12px;
+    
+    background-image: url('https://www.seekpng.com/png/detail/34-345441_listen-to-talk-2-em-by-eli-28.png');
+
+    background-repeat: no-repeat;
+    background-position: 60px;
+    background-size: 100px;
+    
+
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.g{
+    width: 20px;
+    height: 30px;
+    margin: 0px 0px 0px -50px;
+    position: absolute;
+}
+.b {
+    float: right;
+   margin: -20px 80px;
+    
+}
+input{
+    cursor: pointer;
+}
+.c {
+    float: right;
+    display: inline;
+    text-align: center;
+    list-style-type: none;
+    margin: 12px 22px 33px 90px;
+    padding: 0;
+    text-decoration: none;
+    
+}
+
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdow {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-conten {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+.dropdow:hover .dropdown-conten {
+  display: block;
+}
+.afaq{
+    position: relative;
+    display: inline-block;
+    
+}
+.afaq1{
+    display:none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    background-color: #f9f9f9;
+    padding: 12px 16px;
+    z-index: 1;
+
+}
+afaq:hover .afaq1{
+    display: block;
+}
+.afaque{
+    position: relative;
+    display: inline-block;
+    
+}
+.afaque1{
+    display:none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    background-color: #f9f9f9;
+    padding: 12px 16px;
+    z-index: 1;
+
+}
+afaque:hover .afaque1{
+    display: block;
+}
+.e{
+    width: 100%;
+}
+.h{
+    background-color: blue;
+    color: white;
+  min-width: 20px;
+}
+
+.i{
+    margin: 0 190px 0 190px;
+    font-size: 20px;
+    text-align: justify;
+}
+.j{
+margin: 30 190px 0 190px;
+    font-size: 20px;
+    text-align: justify;
+    
+}
+.k{
+    margin: 30 190px 0 190px;
+
+    font-size: 20px;
+text-align: justify;
+    
+}
+.l{
+    margin: 30 190px 0 190px;
+    font-size: 20px;
+text-align: justify;
+    
+}
+.m{
+    background-color: blue;
+    height: 270px;
+}
+h2{
+    color: green;
+    
+}
+.n{
+    position: relative;
+    margin: 50px 110px 120px 250px;
+    color: white;
+}
+.o{
+    position: relative;
+    
+     margin: -100px 60px 10px 200px;
+   font-size: 40px;
+    color: white;
+}
+.p{
+ position: relative;
+    
+     margin: 0px 60px 10px 70px;
+   font-size: 22px;
+   font-size: 22px;
+    color: white;
+    font-family:monospace;
+}   
+.q{
+    position: relative;
+    margin: -150px 110px 120px 500px;
+    color: white;
+    background-color: white;
+}
+.r{
+ position: relative;
+    margin: -110px 110px 120px 500px;
+    color: white;
+    font-size: 40px;
+   
+}
+.s{
+    margin: -110px 110px 120px 400px;
+    color: white;
+    font-size: 20px;
+    
+}
+.t{
+    position: relative;
+    margin: -260px 110px 120px 800px;
+    color: white;
+    font-size: 20px;
+    
+    
+}
+.u{
+ position: relative;
+    margin: -200px 110px 120px 770px;
+    color: white;
+    font-size: 40px;
+    
+}
+.v{
+    margin: -110px 110px 120px 750px;
+    color: white;
+    font-size: 20px;
+    
+    
+}
+.w{
+    margin: -260px 110px 120px 1100px;
+    color: white;
+    font-size: 20px;
+    background-color: white;
+    
+}
+.x{
+    margin: -200px 110px 120px 1070px;
+    color: white;
+    font-size: 40px;
+    
+}
+.y{
+    margin: -110px 110px 120px 1030px;
+    color: white;
+    font-size: 20px;
+    
+    
+}
+.green{
+    color: green;
+    font-size: 40px;
+}
+.red{
+    color: blue;
+     font-size: 40px;
+}
+.ab{
+    margin: 0 0 0 80px;
+    color: black;
+    background-color: ghostwhite;
+    height: 150px;
+    width: 300px;
+    display: inline-block;
+}
+.aac{
+    margin: 20px;
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+}
+.ac{
+    margin: 10 0 0 80px;
+    color: black;
+    background-color: ghostwhite;
+    height: 150px;
+    width: 300px;
+    display: inline-block;
+
+    color: black;
+    display: inline-block;
+}
+.ad{
+    margin: 10 0 0 80px;
+    color: black;
+    background-color: ghostwhite;
+    height: 150px;
+    width: 300px;
+    display: inline-block;
+    color: black;
+    display: inline-block;
+}
+.ae{
+   margin: 10 0 0 80px;
+    color: black;
+    background-color: ghostwhite;
+    height: 150px;
+    width: 300px;
+    display: inline-block;
+
+    color: black;
+    display: inline-block;
+}
+.af{
+   margin: 10 0 0 80px;
+    color: black;
+    background-color: ghostwhite;
+    height: 150px;
+    width: 300px;
+    display: inline-block;
+
+    color: black;
+    display: inline-block;
+}
+.ag{
+   margin: 10 0 0 80px;
+    color: black;
+    background-color: ghostwhite;
+    height: 150px;
+    width: 300px;
+    display: inline-block;
+
+    color: black;
+    display: inline-block;
+}
+.ah{
+   margin: 0 0 0 80px;
+    color: blue;
+    font-size: 25px;
+    
+    
+}
+.ai{
+  display: inline-block;
+    margin: 0 0 0 80px;
+    height: 60px;
+    width: 350px;
+    background-color: ghostwhite;
+}
+
+.aj{
+    color: blue;
+    position: relative;
+    padding: 10px 0 0 0px;
+    font-size: 20px;
+}
+.ak{
+   display: inline-block;
+    margin: 0 0 0 80px;
+    height: 60px;
+    width: 350px;
+    background-color: ghostwhite;
+
+        
+}
+.al{
+ 
+    position: relative;
+    padding: 0px 0 0 80px;
+    font-size: 20px;
+    color: blue;
+}   
+
+.am{
+    text-align: center;
+    float: right;
+   display: inline-block;
+    margin: 20 0 0 80px;
+    height: 200px;
+    width: 350px;
+    
+    background-color: ghostwhite;
+
+        
+}
+.an{
+    background-color: ghostwhite;
+     position: relative;
+  text-align:justify;
+    position: relative;
+    padding: 0px 0 0 80px;
+    font-size: 20px;
+    color: blue;
+}   
+.aa{
+    position: relative;
+    font-size: 22px;
+    color: blue;
+    margin: -40px 0 0 930px;
+    
+}
+.aq{
+    display: inline-block;
+    margin: 0 0 0 80px;
+    height: 60px;
+    width: 350px;
+    background-color: ghostwhite;
+
+        
+}
+.ar{
+position: relative;
+    padding: 0px 10 0 0px;
+    font-size: 20px;
+    color: blue;
+
+}
+.ao{
+
+    display: inline-block;
+    margin: 0 0 0 80px;
+    height: 60px;
+    width: 350px;
+    background-color: ghostwhite;
+
+}
+.ap{
+
+    position: relative;
+    padding: 0px 10 0 0px;
+    font-size: 20px;
+    color: blue;
+
+}
+.as{
+    position: relative;
+     margin:  0px;
+    
+     
+}
+.ss{
+    font-size: 20px;
+    color: blue;
+    padding: 0 20px;
+}
+.xx{
+
+    font-size: 20px;
+    color: blue;
+    padding: 0 20px;
+
+}
+.YY{
+        font-size: 20px;
+    color: blue;
+    padding: 0 20px;
+
+}
+.zz{
+
+        font-size: 20px;
+    color: blue;
+    padding: 0 20px;
+
+
+}
+.aaa{
+    color: blue;
+    font-size: 30px;
+    
+}
+.bbb{
+    color: green;
+    font-size: 30px;
+}
+.cvc{
+    background-color: black;
+    height: 400px;
+}
+.xcx{
+    position: relative;
+    color: aliceblue;
+    margin: 10px 40px;
+    padding: 150px 30px;
+}
+.asd{
+    position: relative;
+    margin: -400px 90px 20px 800px;
+}
+aside{
+    font-size: 40px;
+    
+}
